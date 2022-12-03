@@ -93,7 +93,8 @@ d2=pd.merge(d2,m_trade, how='left')
  ```python
  d2.isnull().sum()
  ```
- <img src="https://github.com/jeonghyoan/BA-term-project/issues/1#issue-1473761730"/>
+##### <img src="https://github.com/jeonghyoan/BA-term-project/issues/1#issue-1473761730"/>
+
  
 
 ## 2. EDA
