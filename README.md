@@ -91,7 +91,7 @@ d2=pd.merge(d2,m_trade, how='left')
  ```
  #### - Handling Missing Values
  ```python
- d2.info()
+ d2.isnull().sum()
  ```
  
 
