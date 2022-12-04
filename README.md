@@ -87,8 +87,8 @@ We processed the data as follows:
 ## Evaluation 
 
 - We evaluate the performance on the test set with the best hyperparameters determined for each model.
-- Lasso  R^2^ score: 0.8709727352447184
-- Ridge R^2^ score: 0.8784319654985286
+- Lasso  R<sup>2 </sup> score: 0.8709727352447184
+- Ridge R<sup>2</sup> score: 0.8784319654985286
 <br/>
 
 
